@@ -126,18 +126,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 港台频道,#genre#
 
-
-鈽侊笍绉戞妧浜戞槦鈽侊笍鎻愰啋鎮�,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-鈽侊笍姘镐箙鍏嶈垂鈽侊笍璇峰嬁璐拱,http://live.dxms.top:80/dwy/mgak.php
-鈽侊笍鍏虫敞鑾峰彇鏈€鏂扮増鏈洿鏂�,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-鈽侊笍濡傛灉璐拱锛岃鏄庝笂褰�,http://118.112.148.228:4022/udp/239.93.42.37:5140
-鈽侊笍璇风珛鍒荤敵璇烽€€娆�,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-鈽侊笍鈽侊笍鎶婂閲岃矾鐢卞櫒,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-鈽侊笍鈽侊笍鎹㈡垚鏀寔ipv6,http://113.98.122.166:9901/tsfile/live/1006_1.m3u8?key=txiptv
-鈽侊笍鈽侊笍鏀寔鎵€鏈夌嚎璺�,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
-鈽侊笍鈽侊笍鐩存挱楂樻竻娴佺晠,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
-鈽侊笍鈽侊笍鏇存崲浜彈瓒呮竻,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-鈽侊笍鈽侊笍鏇存柊浜�07.28,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
 中视新闻,http://ku9.fr.to/smt.php?id=zhongshinews_twn

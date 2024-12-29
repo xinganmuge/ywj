@@ -1,5 +1,5 @@
 更新时间,#genre#
-20241227,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+20241229,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 半导新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8

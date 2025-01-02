@@ -1,11 +1,8 @@
 更新时间,#genre#
 20241229,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 半导新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-全民乒乓,https://api.livednow.org/migu/788818045?sign=gAAAAABnJcJqHa3wNcpu9JlqDcxZSnBlP4yBXJZawD_spKPBiRnPAzQ3K0lrKIx2HBGjCN7Dnes5XyLkyqDd7xId91O8aMvX05U25yXdC74DV2QiTNWpdZGlJEW451zorjacxDPzyCXuqIuABFjOCEf8l4PMET2xX0U28QsxRjCdA6cxXhO8IhhTOvCibU8zL6fhnBcIoUq8bEtsD40PIu9V6BkYoVRKGQ%3D%3D
-咪咕24小时体育台,https://api.livednow.org/migu/654102378?sign=gAAAAABnJcJq_kclB-2uyJ9etLOAbkONr2RGVw9mhAsOWwDxupwhyTdm-IWEkJBMZdR3CeAqiWtfmnHy2hTw2vmsNXZ_I4Nf0MBjbu9M5XKi-Sjcdz9gPtJJQahnHg79b5jkC8Uh04_ADtDeYTcV-tKwhxluwNK11SKDy56-y8xKsk2_gIFaEIAGZhrzMVk_gl0Expecw7WrDOcvE3QoweeChP2-IFEaEQ%3D%3D
+
+
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
 精品纪录,http://gslbserv.itv.cmvideo.cn:80/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=IPTV
@@ -583,6 +580,9 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8$LR•IPV4
 
 港台频道,#genre#
 
+藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+藩薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
 中视新闻,http://ku9.fr.to/smt.php?id=zhongshinews_twn

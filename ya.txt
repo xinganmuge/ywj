@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250601,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+20250611,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
 精品体育,http://gslbserv.itv.cmvideo.cn:80/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=IPTV
@@ -23,7 +23,61 @@
 凤凰中文,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8 
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8 
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-
+凤凰中文高temp测试,http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv
+凤凰资讯高temp测试,http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv
+凤凰香港高temp测试,http://ali.hlspull.yximgs.com/live/7532e23fe1350d23bf72e13b95954253.flv
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+中天新闻高temp测试,http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
+中天新闻加temp测试,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
+寰宇新闻高temp测试,http://ali.hlspull.yximgs.com/live/b00e5a1c1ed0f660a39b04d0c6edef4c.flv
+中视新闻标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlabceqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+台视新闻标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlTTaishieqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+无线新闻高temp测试,http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
+无线翡翠高temp测试,http://ali.hlspull.yximgs.com/live/198c9b22180cb5864e46c669d435e880.flv
+Plus综合标temp测试,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
+pₒₚc电影标temp测试,http://ali.hlspull.yximgs.com/live/cbd9d1141048c36f272d859544ef6bda.flv
+公视闽南标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlctv_taiwanl00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+中视标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlzhongshil00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+华视高temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlhuahsil00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+台视标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlTTaishil00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+tvbs高temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlTTvbsmytv6peqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+iQIYI影剧标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlQiyil00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+astroBoo标temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmlxbool00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+动物星球高temp测试,http://ali.hlspull.yximgs.com/live/123889tdnladisbsbsbilddsshabibscbmldongwuxql00eqoklhdjhflhfsddagksh-4664122236-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbknasdjflabiiillllllilllllillll1lllilldflldhhfsfjljfjfdsklf4dlkfdfgksfhskfsfddlafkfhajdfsaad.flv
+动作电影高temp测试,http://ali.hlspull.yximgs.com/live/6871dafc920a73e359888af4ea3eb1e8.flv
+家庭影院高temp测试,http://ali.hlspull.yximgs.com/live/7d1b72eb97316a2b539bb471c1d82c94.flv
+影迷电影高temp测试,http://ali.hlspull.yximgs.com/live/d557f743cc2d9d0e6ed2b1883e67d1ff.flv
+中天新闻加高,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
+有线新闻高清HD,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
+有线综合高清HD,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
+无线赛马高清HD,https://ali.hlspull.yximgs.com/live/xiangjiaogemytv0318.flv
+无线翡翠高清HD,https://ali.hlspull.yximgs.com/live/xiangjiaoge15131132145.flv
+无线生活标清BD,http://ali.hlspull.yximgs.com/live/022cf01e14fc14f02d533ee3cecbdad9.flv
+无线星河国标清BD,http://ali.hlspull.yximgs.com/live/0a18103967572212a3aaaf1a6b793c01.flv
+Plus综合标清BD,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
+now新闻标清BD,http://ali.hlspull.yximgs.com/live/5b5f09b76ae763790e1de43a74a7c227.flv
+now668-赛标清BD,https://ali.hlspull.yximgs.com/live/f0a952e614feddb7758d7e849dea60c7.flv
+now641-体标清BD,https://ali.hlspull.yximgs.com/live/de40142c51fff7defc2e22208942ccbe.flv
+now英超壹粤,https://ali.hlspull.yximgs.com/live/658cd22156235f766c8086c6702bd4ef.flv
+now爆谷国标清BD,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
+now爆谷粤标清BD,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
+美亚电影标清BD,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
+东森电影高清HD,https://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
+龙祥电影高清HD,https://ali.hlspull.yximgs.com/live/14r5t6y7u8i9o0p1q2w3e4r5t6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
+中天亚洲标清BD,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
+中天亚洲备标清BD,https://ali.hlspull.yximgs.com/live/167ztyz.flv
+中天综合高清HD,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
+中天娱乐高清HD,https://ali.hlspull.yximgs.com/live/167ztyl.flv
+民视第一标清BD,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
+民视标清BD,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
+八大第一高清HD,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
+八大综合高清HD,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
+东森超视标清BD,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
+东森综合高清HD,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
+ELta娱乐标清BD,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
+重温经典高清HD,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 央卫V6,#genre#
 CCTV1 综合「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
@@ -67,9 +121,7 @@ CCTV 17 农村农业「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/
 云南卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 甘肃卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 青海卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 
 

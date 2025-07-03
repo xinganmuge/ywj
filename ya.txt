@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250627,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+20250703,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
 精品体育,http://gslbserv.itv.cmvideo.cn:80/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=IPTV
@@ -23,34 +23,6 @@
 凤凰中文,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8 
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8 
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-
-
-中天新闻加temp测试,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
-无线新闻高temp测试,http://ali.hlspull.yximgs.com/live/cd156be95d97a14bf94a3a7df5d01491.flv
-无线翡翠高temp测试,http://ali.hlspull.yximgs.com/live/198c9b22180cb5864e46c669d435e880.flv
-Plus综合标temp测试,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
-中天新闻加高,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
-有线新闻高清HD,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
-有线综合高清HD,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
-无线赛马高清HD,https://ali.hlspull.yximgs.com/live/xiangjiaogemytv0318.flv
-无线翡翠高清HD,https://ali.hlspull.yximgs.com/live/xiangjiaoge15131132145.flv
-Plus综合标清BD,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
-now新闻标清BD,http://ali.hlspull.yximgs.com/live/5b5f09b76ae763790e1de43a74a7c227.flv
-now爆谷国标清BD,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
-now爆谷粤标清BD,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
-中天亚洲标清BD,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
-中天亚洲备标清BD,https://ali.hlspull.yximgs.com/live/167ztyz.flv
-中天综合高清HD,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
-中天娱乐高清HD,https://ali.hlspull.yximgs.com/live/167ztyl.flv
-民视第一标清BD,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-民视标清BD,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-八大第一高清HD,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-八大综合高清HD,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
-东森超视标清BD,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
-东森综合高清HD,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
-ELta娱乐标清BD,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
-重温经典高清HD,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 
 央卫V6,#genre#
@@ -95,8 +67,6 @@ CCTV 17 农村农业「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/
 云南卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 甘肃卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 青海卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
-凤凰中文,http://edge-cache02.live3.omd.sc96655.com/live/test1_4000.m3u8
-凤凰资讯,http://edge-cache02.live3.omd.sc96655.com/live/test2_4000.m3u8
 
 
 央卫频道,#genre#
@@ -698,8 +668,6 @@ NewTV金牌综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/6399725674632
 
 港台频道,#genre#
 jj斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8

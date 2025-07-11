@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250706,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+20250711,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
 精品体育,http://gslbserv.itv.cmvideo.cn:80/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=IPTV
@@ -8,14 +8,16 @@
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=IPTV
 超级综艺,http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=IPTV
 美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-
+凤凰卫视,http://dispatch.fengshows.cn:8484/live/0701pin72.flv?txSecret=98297a6e6cc3a643db0cedc5c993ad50&txTime=6870546c
 緯來育樂HD,rtmp://f13h.mine.nu/sat/tv701
 緯來日本HD,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
 緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 鳳凰衛視資訊台,ttps://edge.404406.xyz/live/phoenix_infonews.m3u8?token=8PbQqrgU3pW0bnFwaOEC-Q&expires=1750577154
+凤凰资讯1,http://43.152.143.193/hkmolive.fengshows.com/live/0701pin72.m3u8
 凤凰资讯1,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文1,http://43.152.143.193/hkmolive.fengshows.com/live/0701pcc72.m3u8
 凤凰中文1,http://43.152.143.193/hkmolive.fengshows.com/live/0701pcc72.m3u8
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc

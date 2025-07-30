@@ -17,17 +17,19 @@
 鳳凰衛視資訊台,ttps://edge.404406.xyz/live/phoenix_infonews.m3u8?token=8PbQqrgU3pW0bnFwaOEC-Q&expires=1750577154
 凤凰资讯1,http://43.152.143.193/hkmolive.fengshows.com/live/0701pin72.m3u8
 凤凰资讯1,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯1,http://dispatch.fengshows.cn:8484/live/0701pin72.flv?txSecret=9e1d73fce80aff5b5cad10b44e3e3414&txTime=68898cf6
 凤凰中文1,http://43.152.143.193/hkmolive.fengshows.com/live/0701pcc72.m3u8
 凤凰中文1,http://43.152.143.193/hkmolive.fengshows.com/live/0701pcc72.m3u8
+凤凰中文1,http://dispatch.fengshows.cn:8484/live/0701pcc48.flv?txSecret=2465cea0da7d383117b52c6fe7cbf411&txTime=68898d62
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk
+凤凰香港,http://dispatch.fengshows.cn:8484/live/0701phk72.flv?txSecret=f1d0a78c7190da6fadf06703eb325ce1&txTime=68898d8f
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰中文,http://b.tvbox6.icu/【公众号：榴芒电视】/fhzw.m3u8 
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8 
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰资讯1,http://219.147.162.148:1870http://yuniptv117.chinayungu.cn:6666/live/cctv1/index.m3u8
-
+凤凰资讯1,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 央卫V6,#genre#
 CCTV1 综合「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 CCTV2 财经「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8

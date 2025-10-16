@@ -9,7 +9,6 @@
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=IPTV
 超级综艺,http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=IPTV
 JJ斗地主,https://hw3a.douyucdn2.cn/live/488743rAHScWyyII_4000.flv?wsAuth=ac5dbd9c4c747e3797c5311a59285e31&token=web-h5-0-488743-df8b1830ef2e6ce120487dbc910381be5bb77e991a8def3d&logo=0&expire=0&did=6ec0a10e3fbc7d3a3359320400061701&ver=Douyu_new&pt=2&st=0&sid=421537780&mcid2=0&origin=dy&fcdn=hw&fo=0&mix=0&isp=
-JJ斗地主1,https://hw3a.douyucdn2.cn/live/488743rAHScWyyII_4000.flv?wsAuth=f57a67d50deed6b8da5d65b4e4ef06d3&token=web-h5-0-488743-df8b1830ef2e6ce1400d0c26630fd119323adcceb174a788&logo=0&expire=0&did=6ec0a10e3fbc7d3a3359320400061701&pt=2&st=0&sid=421537780&mcid2=0&origin=dy&fcdn=hw&fo=0&mix=0&isp=
 
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,rtmp://f13h.mine.nu/sat/tv771

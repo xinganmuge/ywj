@@ -1,5 +1,7 @@
 更新时间,#genre#
 20251008,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+JJ斗地主,https://hw3a.douyucdn2.cn/live/488743rAHScWyyII_4000.flv?wsAuth=ac5dbd9c4c747e3797c5311a59285e31&token=web-h5-0-488743-df8b1830ef2e6ce120487dbc910381be5bb77e991a8def3d&logo=0&expire=0&did=6ec0a10e3fbc7d3a3359320400061701&ver=Douyu_new&pt=2&st=0&sid=421537780&mcid2=0&origin=dy&fcdn=hw&fo=0&mix=0&isp=
+JJ斗地主,https://hw3a.douyucdn2.cn/live/488743rAHScWyyII_4000.flv?wsAuth=f57a67d50deed6b8da5d65b4e4ef06d3&token=web-h5-0-488743-df8b1830ef2e6ce1400d0c26630fd119323adcceb174a788&logo=0&expire=0&did=6ec0a10e3fbc7d3a3359320400061701&pt=2&st=0&sid=421537780&mcid2=0&origin=dy&fcdn=hw&fo=0&mix=0&isp=
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
 精品体育,http://gslbserv.itv.cmvideo.cn:80/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=IPTV

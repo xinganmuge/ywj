@@ -8,7 +8,7 @@
 惊悚悬疑,http://gslbserv.itv.cmvideo.cn:80/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=IPTV
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=IPTV
 超级综艺,http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=IPTV
-
+jj斗地主,https://aca8143f82b3621b16fa4165eabd42e11e573b1aeeb564ce.h2.smtcdns.net/pull-flv-q11.douyincdn.com/thirdgame/stream-694623112614904638_expld.flv?arch_hrchy=s2&expire=1761361655&major_anchor_level=vip&s_anchor=1&sign=32ab76540b93e2e0b63923212f52ef96&t_id=037-202510181107345A85543F32986B6F118D-P0R8Mn&unique_id=stream-694623112614904638_830_flv_expld&_session_id=555-2025101811073540890479379FD269F18C.1760756855408.62531&rsi=0&abr_pts=-800&TxLiveCode=cold_stream&svr_type=live_oc&tencent_test_client_ip=2409:8a5e:aa92:57e1:c90b:8798:3e0d:8697&dispatch_from=OC_MGR183.232.55.34&utime=1760756855865&TxDispType=7&txTliveMsg=S5;DG_EIC3;DG_EIC3;
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771

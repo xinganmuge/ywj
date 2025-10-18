@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251008,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+20251008,https://6aab54c0f6f517347e6aa18ba4e29e737383a9f567944eea.rdt.tfogc.com:49156/adsmind.gdtimg.com/ads_svp_video__0b53xaajeaaaoeactsvauvtbvoaesk4abesa.f140010.mp4?mkey=68f32445000026f51e08a1de6f1c31f9&dis_k=74bf23ff7e2cd6734d62c04814b8617b&dis_t=1742464648&sha256=ee0cf3a0879d9accb95df3f23228ac3acaef566496a181790bc5319b192ce0ef&m=c2649eb06caed87dcdd445efde28e441&stdfrom=25&&u=6655870286100&t=100&sv=2510150951&sdk_sid=1760756689750&a_block=0&cip=2409:8a5e:aa92:57e1:c90b:8798:3e0d:8697&proto=https
 
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
@@ -8,7 +8,7 @@
 惊悚悬疑,http://gslbserv.itv.cmvideo.cn:80/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=IPTV
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=IPTV
 超级综艺,http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=IPTV
-JJ斗地主,https://hw3a.douyucdn2.cn/live/488743rAHScWyyII_900.flv?wsAuth=985ef28052c1e784736de16782bbd8dc&token=web-h5-0-488743-df8b1830ef2e6ce1b13e243f4da375fc71526af81d16bad4&logo=0&expire=0&did=6ec0a10e3fbc7d3a3359320400061701&pt=2&st=0&sid=421537780&mcid2=0&origin=dy&fcdn=hw&fo=0&mix=0&isp=
+
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771

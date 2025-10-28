@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251008,https://6aab54c0f6f517347e6aa18ba4e29e737383a9f567944eea.rdt.tfogc.com:49156/adsmind.gdtimg.com/ads_svp_video__0b53xaajeaaaoeactsvauvtbvoaesk4abesa.f140010.mp4?mkey=68f32445000026f51e08a1de6f1c31f9&dis_k=74bf23ff7e2cd6734d62c04814b8617b&dis_t=1742464648&sha256=ee0cf3a0879d9accb95df3f23228ac3acaef566496a181790bc5319b192ce0ef&m=c2649eb06caed87dcdd445efde28e441&stdfrom=25&&u=6655870286100&t=100&sv=2510150951&sdk_sid=1760756689750&a_block=0&cip=2409:8a5e:aa92:57e1:c90b:8798:3e0d:8697&proto=https
+20251008,
 
 精品综合,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=IPTV
 精品大剧,http://gslbserv.itv.cmvideo.cn:80/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=IPTV
@@ -8,7 +8,7 @@
 惊悚悬疑,http://gslbserv.itv.cmvideo.cn:80/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=IPTV
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=IPTV
 超级综艺,http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=IPTV
-jj斗地主,https://aca8143f82b3621b16fa4165eabd42e11e573b1aeeb564ce.h2.smtcdns.net/pull-flv-q11.douyincdn.com/thirdgame/stream-694623112614904638_expld.flv?arch_hrchy=s2&expire=1761361655&major_anchor_level=vip&s_anchor=1&sign=32ab76540b93e2e0b63923212f52ef96&t_id=037-202510181107345A85543F32986B6F118D-P0R8Mn&unique_id=stream-694623112614904638_830_flv_expld&_session_id=555-2025101811073540890479379FD269F18C.1760756855408.62531&rsi=0&abr_pts=-800&TxLiveCode=cold_stream&svr_type=live_oc&tencent_test_client_ip=2409:8a5e:aa92:57e1:c90b:8798:3e0d:8697&dispatch_from=OC_MGR183.232.55.34&utime=1760756855865&TxDispType=7&txTliveMsg=S5;DG_EIC3;DG_EIC3;
+
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
@@ -48,9 +48,11 @@ CCTV 12 社会与法「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/
 CCTV 13 新闻「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
 CCTV 14 少儿「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
 CCTV 15 音乐「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
-CCTV16奥运「IPV6」,http://go.bkpcp.top/mg/cctv16
+CCTV16奥运「IPV6」,http://36.46.98.19:8020/rtp/239.111.205.134:5140
+CCTV16奥运「IPV6」,http://221.205.208.46:9003/hls/17/index.m3u8
 CCTV16奥运「IPV6」,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV16奥运「IPV6」,http://huashetou.fun:35455/gaoma/cctv16.m3u8
+CCTV16奥运「IPV6」,http://116.135.38.201:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路4』
 CCTV 17农村农业「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 湖南卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/1.m3u8
 浙江卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
